@@ -1,7 +1,7 @@
 # translator-data-set-collector
 Translator dataset collector web application. It helps in assembling various unstructured data, transformed into a structured parallel corpus, necessary for translating translation applications.
 #database structure
-<img width="560" height="315" src='https://dbdiagram.io/embed/614954fb825b5b01460b7ce2' />
+<img src="https://dbdiagram.io/embed/614954fb825b5b01460b7ce2" />
 
 
 ## TASKS
