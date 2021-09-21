@@ -5,7 +5,7 @@ Translator dataset collector web application. It helps in assembling various uns
 <img src="https://ucarecdn.com/617bab66-f1cc-433a-a6e5-d4ce5c48b27b/datasetcollector3.png" />
 
 
-## TASKS
+## TASKS - API Methods
 
 1. CRUD for all tables
 2. Run regular expressions for all words in one group.
