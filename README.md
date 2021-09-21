@@ -2,7 +2,7 @@
 Translator dataset collector web application. It helps in assembling various unstructured data, transformed into a structured parallel corpus, necessary for translating translation applications.
 
 #database structure
-<img src="https://ucarecdn.com/27e63290-9ebc-456c-af50-267ceeb3bd4a/datasetcollector2.png" />
+<img src="https://ucarecdn.com/617bab66-f1cc-433a-a6e5-d4ce5c48b27b/datasetcollector3.png" />
 
 
 ## TASKS
